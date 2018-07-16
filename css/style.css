@@ -1,4 +1,7 @@
 /* add CSS class and element and selectors here */
+ @import url('https://fonts.googleeapis.com/css?family=Gaegu');
+ 
+ 
  body {
       background-color: lightblue;
       font-size: 150%;
